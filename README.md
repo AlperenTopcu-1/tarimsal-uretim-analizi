@@ -32,6 +32,37 @@ install.packages(c(
 
 ---
 
+## ⚙️ Nasıl Çalıştırılır?
+
+1. **Repoyu klonlayın**
+   ```
+   git clone https://github.com/AlperenTopcu-1/tarimsal-uretim-analizi.git
+   ```
+
+2. **Gerekli paketleri kurun** — R veya RStudio'da bir kez çalıştırın:
+   ```r
+   install.packages(c("ggplot2", "dplyr", "tidyr", "readxl", "scales", "ggtext", "stringr"))
+   ```
+
+3. **Veri dosyalarını proje klasörüne koyun** — Aşağıdaki 5 dosyanın `.R` kodlarıyla **aynı klasörde** olması gerekir:
+   - `meyve_uretim.xlsx`
+   - `Sebze_Uretim_2014_2024.xlsx`
+   - `Sus_Bitkileri_uretim_2014_2024.xlsx`
+   - `Tahil_ve_diger_miktarlari2014_2024.xlsx`
+   - `tarim_alan.xls`
+
+4. **Her `.R` dosyasında dosya yolunu kendi bilgisayarınıza göre güncelleyin:**
+   ```r
+   # Örnek: meyve_kod.r içinde bu satırı bulun ve kendi yolunuzu yazın
+   ham_veri <- read_excel("C:/KENDI/YOLUNUZ/meyve_uretim.xlsx")
+   ```
+
+5. **İlgili `.R` dosyasını RStudio'da açıp çalıştırın** — Grafikler otomatik olarak masaüstüne PDF olarak kaydedilir.
+
+> 💡 **İpucu:** En kolay yöntem, tüm `.R` ve veri dosyalarını aynı klasöre koyup RStudio'da o klasörü **Working Directory** olarak ayarlamaktır: `Session > Set Working Directory > To Source File Location`
+
+---
+
 ## 🗂️ Veri Kaynağı
 
 Tüm veriler **TÜİK (Türkiye İstatistik Kurumu)**'nden alınmıştır.
