@@ -76,3 +76,4 @@ Kullanılan Excel dosyaları:
 - `Sus_Bitkileri_uretim_2014_2024.xlsx` — Kesme çiçek ve süs bitkisi üretimi
 - `Tahil_ve_diger_miktarlari2014_2024.xlsx` — Tahıl ve diğer tarla ürünleri
 - `tarim_alan.xls` — Tarım alanlarının türe göre dağılımı (2001–2024)
+  > 📍 TÜİK → İstatistiksel Temalar → Tarım → Bitkisel Üretim İstatistikleri → Bitkisel Üretim ve Tarım Alanları → Tablolar ve Grafikler → **Tarım ve Orman Alanları**
