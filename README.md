@@ -4,8 +4,6 @@
 Bu çalışma, Yönetim Bilişim Sistemleri – Veri Görselleştirme dersi kapsamında hazırlanmıştır.  
 Türkiye'nin tarımsal üretim verilerini (meyve, sebze, tahıl ve süs bitkileri) farklı görselleştirme teknikleriyle analiz etmektedir.
 
-> **Hazırlayanlar:** Alperen Topcu · Serdar Bayar
-
 ---
 
 ## 📁 Grafikler
@@ -77,3 +75,16 @@ Kullanılan Excel dosyaları:
 - `Tahil_ve_diger_miktarlari2014_2024.xlsx` — Tahıl ve diğer tarla ürünleri
 - `tarim_alan.xls` — Tarım alanlarının türe göre dağılımı (2001–2024)
   > 📍 TÜİK → İstatistiksel Temalar → Tarım → Bitkisel Üretim İstatistikleri → Bitkisel Üretim ve Tarım Alanları → Tablolar ve Grafikler → **Tarım ve Orman Alanları**
+
+> **📌 Not:** Bu repodaki Excel dosyaları, TÜİK'te ayrı ayrı yayımlanan tablolar tarafımdan birleştirilerek düzenlenmiştir. Orijinal verilere yukarıdaki bağlantıdan ulaşabilirsiniz.
+
+---
+
+## 👥 Hazırlayanlar
+
+Bu proje, **Aksaray Üniversitesi** Yönetim Bilişim Sistemleri bölümü Veri Görselleştirme dersi kapsamında hazırlanmıştır.
+
+| İsim | 
+|------|
+| Alperen Topcu |
+| Serdar Bayar |
