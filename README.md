@@ -63,7 +63,7 @@ install.packages(c(
 
 ## 🖼️ Proje Posteri
 
-![Tarımsal Üretim Analizi Posteri](poster.png)
+![Tarımsal Üretim Analizi Posteri](Poster.png)
 
 ---
 
