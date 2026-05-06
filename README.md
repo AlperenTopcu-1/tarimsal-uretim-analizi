@@ -61,6 +61,12 @@ install.packages(c(
 
 ---
 
+## 🖼️ Proje Posteri
+
+![Tarımsal Üretim Analizi Posteri](poster.png)
+
+---
+
 ## 🗂️ Veri Kaynağı
 
 Tüm veriler **TÜİK (Türkiye İstatistik Kurumu)**'nden alınmıştır.
