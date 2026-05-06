@@ -67,9 +67,9 @@ install.packages(c(
 
 Tüm veriler **TÜİK (Türkiye İstatistik Kurumu)**'nden alınmıştır.
 
-🔗 [TÜİK – Bitkisel Üretim İstatistikleri](https://www.tuik.gov.tr)
+🔗 [TÜİK – Bitkisel Üretim İstatistikleri](https://veriportali.tuik.gov.tr/tr/press/53939)
 
-Kullanılan veri setleri:
+Kullanılan Excel dosyaları:
 
 - `meyve_uretim.xlsx` — Meyve türlerine göre yıllık üretim miktarları
 - `Sebze_Uretim_2014_2024.xlsx` — Sebze türlerine göre yıllık üretim miktarları
