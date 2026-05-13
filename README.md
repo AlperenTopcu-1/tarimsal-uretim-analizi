@@ -11,7 +11,7 @@ Türkiye'nin tarımsal üretim verilerini (meyve, sebze, tahıl ve süs bitkiler
 | Dosya | Grafik Türü | İçerik |
 |-------|-------------|--------|
 | `meyve-yillara-gore.r` | Gruplandırılmış Sütun Grafik | Türkiye'de en çok üretilen 5 meyve (2014–2024) |
-| `tahil-uretimi.r` | Yüzey Alan Grafik | Tarım kategorilerinin yıllık üretim payı (Meyve / Sebze / Tahıl) |
+| `yillik-uretim-payi.r` | Yüzey Alan Grafik | Tarım kategorilerinin yıllık üretim payı (Meyve / Sebze / Tahıl) |
 | `kesme-cicekler.r` | Isı Haritası | Kesme çiçekleri üretim yoğunluğu (2014–2024) |
 | `sebze-cizgi-grafik.r` | Çizgi Grafik | En çok değişim gösteren 5 sebzenin üretimi (2014–2024) |
 | `tahil-uretim.r` | Box Plot | En çok üretilen 5 tahılın dağılımı (2014–2024) |
